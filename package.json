@@ -1,0 +1,14 @@
+{
+  "name": "mysql-emp-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^9.2.3",
+    "mysql2": "^3.3.1",
+    "sequelize": "^6.31.1"
+  }
+}
