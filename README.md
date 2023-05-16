@@ -30,6 +30,8 @@ No license was used for this project.
   
   run `Node server.js` in the terminal and follow the inquirer prompts to navigate, use the arrow keys.
 
+  Check out the install and usage video [Here](https://drive.google.com/file/d/1flPYYWJQZDzFPgJFXjSGPDJRmKb1qyAy/view).
+
 
 ![alt text](./assets/images/code.png)
   
